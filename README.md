@@ -178,9 +178,9 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	    printf("CHARAN KUMAR S\n");
-	  	printf("212223220015\n");
-	  	printf("IT\n");
+	    printf("M.V.Vamsidhar Reddy\n");
+	  	printf("212224040205\n");
+	  	printf("CSE\n");
 	  	HAL_Delay(500);
     /* USER CODE BEGIN 3 */
   }
@@ -340,30 +340,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f942d415-0195-4f5e-8425-dba348b4c758" />
-
-
- 
-## Result :
-The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
+<img width="989" height="824" alt="Screenshot 2026-02-12 171343" src="https://github.com/user-attachments/assets/9110b20a-e9be-4f18-884e-ff9268e04dde" />
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-## Output screen shots of Serial port utility   :
- 
- 
- 
  
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
